@@ -1,24 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 5, 2019 (Example 1)
+### Day 0: March 17, Wednesday
 
-##### (delete me or comment me out)
+**Today's Progress:** 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Portfolio Page](http://www.example.me)
-
-### Day 0: February 6, 2019 (Example 2)
-
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.me)
+**Link to work:**
 
 ### Day 1: February 7, Thursday
 
@@ -28,5 +16,4 @@
 
 **Link(s) to work**
 
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)

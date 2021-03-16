@@ -6,7 +6,7 @@
 
 #### Start Date
 
-Jebruary 5th, 2019. [PUT YOUR DATE HERE]
+March 17th, 2021. [PUT YOUR DATE HERE]
 
 ## Additional Rules
 
